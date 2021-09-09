@@ -1,5 +1,5 @@
 # QTcpFileTransmission
-A simple program which allows the sever to send files to the client
+A simple program which allows the server to send files to the client.
 
 **QTcpFileTransmission** is a simple tcp server which allows the server to send files to the client
 
